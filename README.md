@@ -30,6 +30,6 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br/>
 <br/>
-<img width="550" alt="Hridoy Das Github Stats"  src="https://github-readme-stats.vercel.app/api?username=HrrodyV2&show_icons=true"/>
+<img width="550" alt="Hridoy Das Github Stats"  src="https://github-readme-stats.vercel.app/api?username=HrridyV2&show_icons=true"/>
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=faizkhan01&card_width=550)](https://github.com/faizkhan01/faizkhan01)
 
