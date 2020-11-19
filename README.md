@@ -31,5 +31,5 @@
 <br/>
 <br/>
 <img width="550" alt="Hridoy Das Github Stats"  src="https://github-readme-stats.vercel.app/api?username=HrridoyV2&show_icons=true"/>
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=faizkhan01&card_width=550)](https://github.com/faizkhan01/faizkhan01)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=HrridoyV2&card_width=550)](https://github.com/HrridoyV2/HrridoyV2)
 
