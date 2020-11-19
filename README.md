@@ -10,6 +10,7 @@
 - ⚡ Fun fact: I love to travel a lot, watch movies and explore different programming languages
 ### Connect With Me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/hridoy-das-1758b81ba)
+[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://hrridoyv2.medium.com)
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/HrridoyV2.0)
 <br/>
 ### Languages and Tools:
