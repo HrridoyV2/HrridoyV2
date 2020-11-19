@@ -1,4 +1,4 @@
-### Hi there I'm [Md. Faizur Rahman Khan](https://faizkhan01.github.io/personal-website1/) 👋
+### Hi there I'm [Hridoy Chandra Das](https://portfolio-433df.web.app) 👋
 ![banner](https://i.ibb.co/X4yp96m/MERN-Stack-Development-and-Consulting-Services.jpg)
 
 ## I'm MERN Stack Web Developer!
@@ -31,4 +31,4 @@
 <br/>
 <br/>
 <img width="550" alt="Hridoy Das Github Stats"  src="https://github-readme-stats.vercel.app/api?username=faizkhan01&show_icons=true"/>
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=faizkhan01&card_width=550)](https://github.com/HrridoyV2/HrridoyV2)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=HrrodyV2&card_width=550)](https://github.com/HrridoyV2/HrridoyV2)
